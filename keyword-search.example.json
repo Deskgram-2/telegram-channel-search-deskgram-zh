@@ -1,0 +1,13 @@
+{
+  "queries": [
+    "крипто новости telegram",
+    "маркетинг telegram",
+    "инвестиции чат telegram"
+  ],
+  "filters": {
+    "include_channels": true,
+    "include_groups": true,
+    "deduplicate_results": true
+  },
+  "workflow_note": "Используйте результаты как входной слой для модулей сбора аудитории и поиска похожих каналов."
+}
