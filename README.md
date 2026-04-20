@@ -1,13 +1,13 @@
-# Deskgram 2 Telegram 频道与群组搜索
+﻿# Deskgram 2 Telegram 频道与群组搜索
 
 Deskgram 2 的频道与群组搜索模块适合在还没有现成来源列表时，从关键词出发建立 Telegram 社区地图。它适合作为 discovery 的第一层，把后续的解析、引流和增长流程建立在更清晰的来源基础上。
 
-[Deskgram 2 中文总览](https://github.com/Deskgram-2/deskgram-2-telegram-automation-zh) | [官网](https://deskgram2.com/) | [Telegram Bot](https://t.me/DG2welcomebot) | [Web Preview](https://deskgram2.com/web-preview)
+[Deskgram 2 中文总览](https://github.com/Deskgram-2/deskgram-2-telegram-automation-zh) | [官网](https://deskgram2.com/) | [Telegram Bot](https://t.me/DG2welcomebot) | [Web Preview](https://deskgram2.com/web-preview?path=%2Fapp-demo%2F&lang=cn)
 ## 交互式 Web Preview
 
-[![Interactive Demo](https://img.shields.io/badge/DEMO-Try_in_Browser-brightgreen?style=for-the-badge&logo=google-chrome)](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Fsearch_channels_groups)
+[![Interactive Demo](https://img.shields.io/badge/DEMO-Try_in_Browser-brightgreen?style=for-the-badge&logo=google-chrome)](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Fsearch_channels_groups&lang=cn)
 
-在浏览器中体验这个模块: [打开 Web Preview](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Fsearch_channels_groups)
+在浏览器中体验这个模块: [打开 Web Preview](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Fsearch_channels_groups&lang=cn)
 
 
 
@@ -118,3 +118,4 @@ Deskgram 2 会把候选频道和群组集中到一个工作区里。你可以在
 ### 结果后面还能继续复用吗？
 
 可以。这个模块本来就是为了给后续解析和增长流程提供来源层。
+
